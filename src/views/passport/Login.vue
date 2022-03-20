@@ -2,7 +2,7 @@
   <div class="main">
     <div class="header">
       <div class="logo">
-        <img src="~@/assets/logo.svg" class="logo" alt="logo" />
+        <img src="~@/assets/logo.png" class="logo" alt="logo" />
       </div>
       <p class="title">商城系统登录</p>
     </div>

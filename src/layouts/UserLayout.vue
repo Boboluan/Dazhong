@@ -37,7 +37,7 @@ export default {
     position: relative;
     width: 100%;
     height: 100%;
-    background-image: url(~@/assets/background.jpg);
+    // background-image: url(~@/assets/background.jpg);
     text-align: center;
     &::before {
       display: inline-block;

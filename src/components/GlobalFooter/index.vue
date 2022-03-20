@@ -32,10 +32,10 @@ export default {
   data () {
     return {
       visibility: true,
-      copyright: uncompileStr('%5D%B2%DF%E9%EB%DB%D0%CF%DC%94%C9%C9RbbdR%u8444%uF48F%uC5B1%uAD14%u5800%60%5EP%9C'),
+      copyright: '商城管理系统',
       link: {
-        text: uncompileStr('b%A2%98%A5%A5%7Dq%92%9C'),
-        url: uncompileStr('%7D%DC%E8%E4%E3%ADi%5E%A6%EE%EE%A5%A7%E2%D8%E5%E5%9D%91%D2%DC')
+        text: 'VanShop',
+        url: "#"
       }
     }
   },

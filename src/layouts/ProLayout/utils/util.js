@@ -2,7 +2,9 @@ import triggerEvent from 'ant-design-vue/es/_util/triggerEvent'
 import { inBrowser } from 'ant-design-vue/es/_util/env'
 
 var getComponentFromProp = function getComponentFromProp (instance, prop) {
+  
   var slots = instance.slots && instance.slots()
+  
   return slots[prop] || instance.props[prop]
 }
 

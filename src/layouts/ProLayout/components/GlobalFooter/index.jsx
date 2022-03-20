@@ -13,6 +13,7 @@ const GlobalFooter = {
   name: 'GlobalFooter',
   props: GlobalFooterProps,
   render () {
+    
     const copyright = getComponentFromProp(this, 'copyright')
     const links = getComponentFromProp(this, 'links')
     const linksType = hasProp(links)
